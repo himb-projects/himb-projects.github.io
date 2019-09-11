@@ -32,6 +32,8 @@ theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
 
+remote_theme: fongandrew/hydeout
+
 paginate: 5
 
 plugins:
