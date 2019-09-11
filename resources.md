@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: /resoursces/
+permalink: /resources/
 sidebar_link: true
 ---
 
