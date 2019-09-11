@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Communication
-permalink: /communication/
+title: Coordination
+permalink: /coordination/
 sidebar_link: true
 ---
 
