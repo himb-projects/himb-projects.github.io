@@ -16,7 +16,6 @@ We will attempt to have all-hands meetings every 2-3 weeks open to everyone.
 
 - [Shreya Yadav](mailto:shreyay@hawaii.edu)
 - [Ty Roach](mailto:smokinroachjr@gmail.com)
-- [Mykle Hoban](mailto:mhoban@hawaii.edu)
 
 ### Layer coordinators 
 
@@ -38,4 +37,4 @@ Restoration assays | [Zac Forsman](mailto:zac@hawaii.edu), [Ingrid Knapp](mailto
 
 - Hawai‘i’s He‘eia National Estuarine Research Reserve 
 - HIMB outreach and education 
-- NOAA, DAR, Hawaiʻi Coral Bleaching Collaborative (HCBC)
+- NOAA, DAR, Hawaiʻi Coral Bleaching Collaborative (HCBC), MarineGEO
