@@ -43,3 +43,5 @@ Restoration assays | [Zac Forsman](mailto:zac@hawaii.edu), [Ingrid Knapp](mailto
 - DAR
 - Hawaiʻi Coral Bleaching Collaborative (HCBC)
 - MarineGEO (Smithsonian)
+
+Go to [Resources](/resources) for useful information about the project and bleaching event.
