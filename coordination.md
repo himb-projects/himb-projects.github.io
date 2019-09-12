@@ -21,7 +21,7 @@ We will attempt to have all-hands meetings every 2-3 weeks open to everyone.
 ### Layer coordinators 
 
 --- | ---
-Coral genetics | [Lupita Ruiz-Jones](mailto:lupita.ruiz.jones@gmail.com), [Carlo Caruso](mailto:carusoc@hawaii.edu), [Mariana Rocha De Souza](mailto:mrds@hawaii.edu), [Ford Drury](mailto:druryc@hawaii.edu)
+Coral genetics | [Lupita Ruiz-Jones](mailto:lupita.ruiz.jones@gmail.com), [Carlo Caruso](mailto:carusoc@hawaii.edu), [Mariana Rocha De Souza](mailto:mrds@hawaii.edu), [Crawford Drury](mailto:druryc@hawaii.edu)
 Photogrammetry | [Shreya Yadav](mailto:shreyay@hawaii.edu), [Spencer Miller](mailto:smiller11@my.hpu.edu), [Joshua Madin](mailto:jmadin@hawaii.edu)
 Sponges/coral interactions | [Jan Vicente](mailto:vicentejan@gmail.com), [Rob Toonen](mailto:toonen@hawaii.edu)
 Coral demography | [Tom Oliver](mailto:thomas.oliver@noaa.gov), [Joshua Madin](mailto:jmadin@hawaii.edu), [Megan Donahue](mailto:donahuem@hawaii.edu), [Mike Mcwilliam](mailto:mikemcwilliam23@aol.co.uk)

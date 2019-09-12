@@ -9,7 +9,7 @@ sidebar_link: true
 
 [https://hawaiicoral.org](https://hawaiicoral.org)
 
-### What are the bleahing forecasts for Hawaii
+### What are the bleaching forecasts for Hawaii
 
 [NOAA Coral Reef Watch](https://coralreefwatch.noaa.gov/vs/gauges/hawaii.php)
 
