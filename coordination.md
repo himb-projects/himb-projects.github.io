@@ -16,6 +16,7 @@ We will attempt to have all-hands meetings every 2-3 weeks open to everyone.
 
 - [Shreya Yadav](mailto:shreyay@hawaii.edu)
 - [Ty Roach](mailto:smokinroachjr@gmail.com)
+- TBA (we have recieved funding to support a dedicated program reseracher)
 
 ### Layer coordinators 
 
@@ -33,8 +34,12 @@ Aeriel maps | [Catherine Foley](mailto:foleyc@hawaii.edu), [Erik Franklin](mailt
 Satellite | TBA
 Restoration assays | [Zac Forsman](mailto:zac@hawaii.edu), [Ingrid Knapp](mailto:ingrid.knapp16@gmail.com), [Rob Toonen](mailto:toonen@hawaii.edu)
 
-### Other coordination (being updated)
+### Other coordination (in progress)
 
-- Hawai‘i’s He‘eia National Estuarine Research Reserve 
-- HIMB outreach and education 
-- NOAA, DAR, Hawaiʻi Coral Bleaching Collaborative (HCBC), MarineGEO
+- Hawai‘i’s He‘eia National Estuarine Research Reserve (He‘eia NERR)
+- HIMB outreach and education programs
+- Hawai'i Monitoring and Reporting Collaborative (HIMARC)
+- NOAA
+- DAR
+- Hawaiʻi Coral Bleaching Collaborative (HCBC)
+- MarineGEO (Smithsonian)
