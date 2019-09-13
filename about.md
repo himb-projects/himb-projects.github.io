@@ -5,7 +5,7 @@ permalink: /about/
 sidebar_link: true
 ---
 
-The corals of Kaneohe Bay started bleaching 4-6 weeks earlier than NOAA forecasts, and significantly earlier than the 2015 bleaching event. We believe that what is unfolding in the bay is unprecedented because peak water temperatures are not expected until late October. 
+The corals of Kaneohe Bay started bleaching 4-6 weeks earlier than NOAA forecasts, and significantly earlier than the 2015 bleaching event ([see this post](/_posts/2019-09-12-early_event.md)). We believe that what is unfolding in the bay is unprecedented because peak water temperatures are not expected until late October. 
 
 HIMB has pooled our expertise and resources to create an emergency program to monitor the bleaching event throughout Kaneohe Bay. The foundation of the program is large, high-resolution photomosaics of 30 reefs (see graphic; [Pizarro et al. 2017](/assets/Pizarro_et_al-2017-Ecology_and_Evolution.pdf)). Layered upon these photomosaics are a series of observation efforts spanning multiple scales (see [Coordination](/coordination) for layers and layer coordinators).
 
