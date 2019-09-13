@@ -9,6 +9,10 @@ sidebar_link: true
 
 [https://hawaiicoral.org](https://hawaiicoral.org)
 
+### Current temperature at Moku o Loʻe (Coconut Island)
+
+[NOAA tides and currents](https://tidesandcurrents.noaa.gov/physocean.html?id=1612480)
+
 ### What are the bleaching forecasts for Hawaii
 
 [NOAA Coral Reef Watch](https://coralreefwatch.noaa.gov/vs/gauges/hawaii.php)
