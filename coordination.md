@@ -16,7 +16,7 @@ We will attempt to have all-hands meetings every 2-3 weeks open to everyone.
 
 - [Shreya Yadav](mailto:shreyay@hawaii.edu)
 - [Ty Roach](mailto:smokinroachjr@gmail.com)
-- TBA (we have recieved funding to support a dedicated program reseracher)
+- TBA (we have recieved funding to support a program dedicated researcher)
 
 ### Layer coordinators 
 
