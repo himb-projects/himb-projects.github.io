@@ -26,7 +26,7 @@ Photogrammetry | [Shreya Yadav](mailto:shreyay@hawaii.edu), [Spencer Miller](mai
 Sponges/coral interactions | [Jan Vicente](mailto:vicentejan@gmail.com), [Rob Toonen](mailto:toonen@hawaii.edu)
 Coral demography | [Tom Oliver](mailto:thomas.oliver@noaa.gov), [Joshua Madin](mailto:jmadin@hawaii.edu), [Megan Donahue](mailto:donahuem@hawaii.edu), [Mike Mcwilliam](mailto:mikemcwilliam23@aol.co.uk)
 Fish communities | [Elizabeth Madin](mailto:emadin@hawaii.edu), [Shreya Yadav](mailto:shreyay@hawaii.edu), [Erik Franklin](mailto:erik.franklin@hawaii.edu)
-Environmental DNA | [Brian Bowen](mailto:bbowen@hawaii.edu), [Mykle Hoban](mailto:mhoban@hawaii.edu), [Cassie Lyons](mailto:cklyons@gmail.com)
+Environmental DNA | [Brian Bowen](mailto:bbowen@hawaii.edu), [Mykle Hoban](mailto:mhoban@hawaii.edu), [Cassie Lyons](mailto:cklyons@gmail.com), [Ty Roach](mailto:smokinroachjr@gmail.com)
 Oceanography | TBA
 Water properties | [Ty Roach](mailto:smokinroachjr@gmail.com), [Lupita Ruiz-Jones](mailto:lupita.ruiz.jones@gmail.com), [Dan Schar](mailto:schar@hawaii.edu)
 Microbial communities | [Michael Rappe](mailto:rappe@hawaii.edu), [Kelle Freel](mailto:kfreel@hawaii.edu)
